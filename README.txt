@@ -1,4 +1,4 @@
-Parallel Life is a parallel implementation of Conway's Game of Life algorithm. 
+Parallel Life is a parallel implementation of Conway's Game of Life algorithm using CILK
 
 
 This directory contains the following files:
